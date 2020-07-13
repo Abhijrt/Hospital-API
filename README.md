@@ -45,7 +45,7 @@ Form body - Send as body in fetch request
 	Doctor Authorisation Required
 # See the reports by Stats GET
 	API_ROOT/reports/:status (status is Negative, Travelled-Quarantine,
-Symptoms-Quarantine, Positive-Admit)
+	Symptoms-Quarantine, Positive-Admit)
 	Doctor Authorisation Required
 
  
